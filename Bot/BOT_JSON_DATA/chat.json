@@ -1,0 +1,198 @@
+[
+    {
+        "Customer": "Can I return a shirt I bought last week?",
+        "Employee": "Yes, you can return it within 30 days with the receipt."
+    },
+    {
+        "Customer": "Do you have this jacket in size large?",
+        "Employee": "Let me check the stock for you. One moment, please."
+    },
+    {
+        "Customer": "What are your store hours?",
+        "Employee": "We are open from 9 AM to 9 PM, Monday to Saturday, and 10 AM to 6 PM on Sundays."
+    },
+    {
+        "Customer": "Is there a discount on summer dresses?",
+        "Employee": "Yes, we have a 20% discount on all summer dresses this week."
+    },
+    {
+        "Customer": "Do you offer gift wrapping services?",
+        "Employee": "Yes, we do offer gift wrapping for an additional $5."
+    },
+    {
+        "Customer": "Can I get a refund for a damaged product?",
+        "Employee": "Yes, please bring the product and the receipt, and we will process your refund."
+    },
+    {
+        "Customer": "How can I track my online order?",
+        "Employee": "You can track your order using the tracking number provided in the confirmation email."
+    },
+    {
+        "Customer": "Do you have any eco-friendly products?",
+        "Employee": "Yes, we have a section dedicated to eco-friendly and sustainable products."
+    },
+    {
+        "Customer": "Can I exchange this shirt for a different size?",
+        "Employee": "Absolutely, you can exchange it for a different size if it's in stock."
+    },
+    {
+        "Customer": "What is your return policy?",
+        "Employee": "Our return policy allows returns within 30 days with the original receipt."
+    },
+    {
+        "Customer": "Do you offer student discounts?",
+        "Employee": "Yes, we offer a 10% discount for students with a valid ID."
+    },
+    {
+        "Customer": "Can I place an order over the phone?",
+        "Employee": "Yes, you can place an order over the phone by calling our customer service."
+    },
+    {
+        "Customer": "Do you have any loyalty programs?",
+        "Employee": "Yes, we have a loyalty program where you earn points with every purchase."
+    },
+    {
+        "Customer": "Is there a sale on winter coats?",
+        "Employee": "Yes, we currently have a 30% discount on all winter coats."
+    },
+    {
+        "Customer": "Can I get my purchase delivered to my home?",
+        "Employee": "Yes, we offer home delivery services for online and in-store purchases."
+    },
+    {
+        "Customer": "Do you sell gift cards?",
+        "Employee": "Yes, we sell gift cards in various denominations."
+    },
+    {
+        "Customer": "What sizes do you have for this dress?",
+        "Employee": "This dress is available in sizes XS to XL."
+    },
+    {
+        "Customer": "Can I reserve an item and pick it up later?",
+        "Employee": "Yes, you can reserve an item online and pick it up in-store within 24 hours."
+    },
+    {
+        "Customer": "Do you offer alterations?",
+        "Employee": "Yes, we offer alteration services for an additional fee."
+    },
+    {
+        "Customer": "How can I apply for a job at your store?",
+        "Employee": "You can apply for a job by visiting our careers page on our website."
+    },
+    {
+        "Customer": "Do you have maternity clothing?",
+        "Employee": "Yes, we have a section dedicated to maternity clothing."
+    },
+    {
+        "Customer": "Can I use multiple discount codes on one purchase?",
+        "Employee": "Unfortunately, you can only use one discount code per purchase."
+    },
+    {
+        "Customer": "How long does shipping take?",
+        "Employee": "Standard shipping typically takes 3-5 business days."
+    },
+    {
+        "Customer": "Do you have any new arrivals?",
+        "Employee": "Yes, we have new arrivals every week. You can check our latest collection online or in-store."
+    },
+    {
+        "Customer": "Can I cancel my order?",
+        "Employee": "Yes, you can cancel your order within 24 hours of placing it."
+    },
+    {
+        "Customer": "Do you offer personal shopping assistance?",
+        "Employee": "Yes, we offer personal shopping assistance by appointment."
+    },
+    {
+        "Customer": "Are your clothes true to size?",
+        "Employee": "Most of our clothes are true to size, but we recommend checking the size guide on our website."
+    },
+    {
+        "Customer": "Do you sell plus-size clothing?",
+        "Employee": "Yes, we offer a range of plus-size clothing."
+    },
+    {
+        "Customer": "Can I return an online purchase in-store?",
+        "Employee": "Yes, you can return online purchases in-store with the receipt."
+    },
+    {
+        "Customer": "Do you offer international shipping?",
+        "Employee": "Yes, we offer international shipping to many countries."
+    },
+    {
+        "Customer": "What payment methods do you accept?",
+        "Employee": "We accept all major credit cards, debit cards, and PayPal."
+    },
+    {
+        "Customer": "Can I pre-order an upcoming item?",
+        "Employee": "Yes, you can pre-order items that are marked as available for pre-order on our website."
+    },
+    {
+        "Customer": "Do you have a size chart?",
+        "Employee": "Yes, we have a size chart available on our website."
+    },
+    {
+        "Customer": "Is this item available in other colors?",
+        "Employee": "Yes, this item is available in several colors. You can check the options online or ask an associate in-store."
+    },
+    {
+        "Customer": "Can I get a price adjustment if an item I bought goes on sale?",
+        "Employee": "Yes, we offer price adjustments within 14 days of purchase."
+    },
+    {
+        "Customer": "Do you offer gift receipts?",
+        "Employee": "Yes, we offer gift receipts upon request."
+    },
+    {
+        "Customer": "Can I combine online and in-store purchases for discounts?",
+        "Employee": "Currently, discounts cannot be combined across online and in-store purchases."
+    },
+    {
+        "Customer": "Do you have vegan leather products?",
+        "Employee": "Yes, we have a selection of vegan leather products."
+    },
+    {
+        "Customer": "Can I return an item without a receipt?",
+        "Employee": "We can offer store credit for returns without a receipt."
+    },
+    {
+        "Customer": "Do you have any exclusive online deals?",
+        "Employee": "Yes, we have exclusive deals available only on our website."
+    },
+    {
+        "Customer": "How can I sign up for your newsletter?",
+        "Employee": "You can sign up for our newsletter on our website to receive the latest updates and offers."
+    },
+    {
+        "Customer": "Can I use a promo code in-store?",
+        "Employee": "Some promo codes are online-only, but many can be used in-store as well. Please check the terms and conditions of the promo code."
+    },
+    {
+        "Customer": "Do you have a sale section?",
+        "Employee": "Yes, we have a sale section both online and in-store."
+    },
+    {
+        "Customer": "Can I get an item shipped to a different address?",
+        "Employee": "Yes, you can specify a different shipping address at checkout."
+    },
+    {
+        "Customer": "Do you offer any special discounts for first-time buyers?",
+        "Employee": "Yes, first-time buyers can sign up for a 10% discount on their first purchase."
+    },
+    {
+        "Customer": "What is the status of my order?",
+        "Employee": "You can check the status of your order using the tracking number provided in your confirmation email."
+    },
+    {
+        "Customer": "Do you have an app for easier shopping?",
+        "Employee": "Yes, we have a mobile app available for download on iOS and Android."
+    },
+    {
+        "Customer": "Can I pay with Apple Pay?",
+        "Employee": "Yes, we accept Apple Pay in-store and online."
+    },
+    {
+        "Customer": "What is your exchange policy?",
+        "Employee": "Our exchange policy allows exchanges within 30 days with the original receipt."
+    }
+]
